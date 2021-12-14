@@ -8,6 +8,8 @@ public class MsscBreweryApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MsscBreweryApplication.class, args);
+
+
 	}
 
 }
